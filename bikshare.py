@@ -180,6 +180,10 @@ def user_stats(df,city):
     print('-'*40)
 
 def display_data(df):
+    """
+    Ask user wheteher he/she wants to see 5 rows of data.
+    Displays data based on location.
+    """
     view_data = input('\Would you like to view 5 rows of individual trip data? Enter yes or no\n')
     start_loc = 0
     keep_asking = True
