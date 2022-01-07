@@ -37,6 +37,13 @@ The **Chicago** and **New York City** files also have the following two columns:
 - new_york_city.csv
 - washington.csv
 
+### Statistics Computed
+The script provide the following information about the bike share data:
+1. Popular times of travel
+2. Popular stations and trip
+3. Trip duration
+4. User info
+
 ### Credits
 [Udacity program] (https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
 
