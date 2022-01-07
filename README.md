@@ -12,6 +12,13 @@ Describe what your project is about and what it does
 ### Files used
 Include the files used
 
+### Statistics Computed
+The script provide the following information about the bike share data:
+1. Popular times of travel
+2. Popular stations and trip
+3. Trip duration
+4. User info
+
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
